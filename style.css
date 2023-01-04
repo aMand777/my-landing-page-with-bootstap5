@@ -3,7 +3,7 @@
   background-color: #d6fffc;
 }
 
-#projects {
+#products {
   background-color: #d6fffc;
 }
 
@@ -13,4 +13,8 @@
 
 section {
   padding-top: 5rem;
+}
+
+.card-img-top {
+  background-color: greenyellow;
 }
